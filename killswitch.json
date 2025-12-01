@@ -1,6 +1,7 @@
 {
-  "version": 2,
-  "action": "wipe_all_configs",
-  "reason": "Service discontinued due to abuse",
+  "version": 3,
+  "action": "wipe_targeted",
+  "reason": "Unauthorized sharing detected",
+  "target_app_ids": ["77ffd47c1d534ab09bb26c0592fa9029"],
   "timestamp": 1735699200000
 }
