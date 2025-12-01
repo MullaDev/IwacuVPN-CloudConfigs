@@ -2,6 +2,6 @@
   "version": 4,
   "action": "none",
   "reason": "Unauthorized sharing detected",
-  "target_app_ids": ["77ffd47c1d534ab09bb26c0592fa9029"],
+  "target_app_ids": [""],
   "timestamp": 1735699200000
 }
