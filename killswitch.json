@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "action": "wipe_targeted",
   "reason": "Service discontinued due to abuse",
   "target_app_ids": ["77ffd47c1d534ab09bb26c0592fa9029"],
