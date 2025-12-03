@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "action": "wipe_targeted",
   "reason": "Device found violating rules",
   "timestamp": 1735699200000,
