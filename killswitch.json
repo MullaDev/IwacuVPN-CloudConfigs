@@ -1,5 +1,6 @@
 ‎{
-‎  "version": 22,
-‎  "action": "none",
+‎  "version": 16,
+‎  "action": "wipe_all_configs",
 ‎  "reason": "Service discontinued due to abuse",
+‎  "timestamp": 1735699200000
 ‎}
